@@ -13,7 +13,6 @@ version 1 : 18 april 2021
 to fix : lazy crosshair, optimization bottlenecks, dirty backgrounds positions with scroll ?, game over screen , HUD lives left , dogs walking , 
 nobody should cross waters , add UMP 45, change laser for pistol
 etc.
+fix Bouncing grenade a more elegant way (no pymunk for this game)
 Add Molotov 
-Bouncing grenade a more elegant way (no pymunk for this game)
-
 ----next version in some days to fix what i can 
