@@ -8,7 +8,8 @@ Shoot em up with scroll and TMX tiled files , made with linux and python 3.8.5 ,
 should work on windows (Mac ?), not tested.
 
 -----------------------------
-
+Version 2 coming soon , i will have to dezip to split the >100 files assets folder / script , change the paths , to give fix ...
+--------------------------------
 version 1 : 18 april 2021
 to fix : lazy crosshair, optimization bottlenecks, dirty backgrounds positions with scroll ?, game over screen , HUD lives left , dogs walking , 
 nobody should cross waters , add UMP 45, change laser for pistol
