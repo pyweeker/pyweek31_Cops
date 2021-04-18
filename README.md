@@ -4,7 +4,7 @@ Inspired from pyweek 31's thema : "Cops"
 
 Not rated, out of time , but for learning coding , for sharing and for fun
 
-Shoot em up with TMX tiled files , made with linux and python 3.8.5 ,
+Shoot em up with scroll and TMX tiled files , made with linux and python 3.8.5 ,
 should work on windows (Mac ?), not tested.
 
 -----------------------------
