@@ -7,6 +7,7 @@ Not rated, out of time , but for learning coding , for sharing and for fun
 Shoot  with scroll and TMX tiled files , made with linux and python 3.8.5 and arcade library (upon pyglet)
 should work on windows (Mac ?), not tested.
 
+Next: add new skins and enemy variety.
 -----------------------------
 Version 2 : 20th april 2021 : HUD fixed , unsmoking at level up.
 --------------------------------
