@@ -4,11 +4,11 @@ Inspired from pyweek 31's thema : "Cops"
 
 Not rated, out of time , but for learning coding , for sharing and for fun
 
-Shoot em up with scroll and TMX tiled files , made with linux and python 3.8.5 ,
+Shoot  with scroll and TMX tiled files , made with linux and python 3.8.5 and arcade library (upon pyglet)
 should work on windows (Mac ?), not tested.
 
 -----------------------------
-Version 2 coming soon , i will have to dezip to split the >100 files assets folder / script , change the paths , to give fix ...
+Version 2 : 20th april 2021 : HUD fixed , unsmoking at level up.
 --------------------------------
 version 1 : 18 april 2021
 to fix : lazy crosshair, optimization bottlenecks, dirty backgrounds positions with scroll ?, game over screen , HUD lives left , dogs walking , 
