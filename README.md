@@ -9,6 +9,7 @@ should work on windows (Mac ?), not tested.
 
 -----------------------------
 version 3 : 22th april 2021 Aiming better but not perfect : blocks at far right side , new background not well fitted yet , gameover screen centered
+path for resources fixed
 ----------------
 
 Next soon: add new skins and enemy variety. , fix maps and backgrounds. Maybe gamepad support 
