@@ -8,7 +8,7 @@ Shoot  with scroll and TMX tiled files , made with linux and python 3.8.5 and ar
 should work on windows (Mac ?), not tested.
 
 -----------------------------
-version 3 : 22th april 2021 Aiming better but not perfect : blocks at far right side , new background not well fitted yet , gameover screen centered
+version 3 : 22th april 2021 Aiming better but not perfect : blocks at far right side , new background not well fitted yet , gameover screen centered,
 path for resources fixed
 ----------------
 
