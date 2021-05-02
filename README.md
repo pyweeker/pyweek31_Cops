@@ -7,13 +7,14 @@ Not rated, out of time , but for learning coding , for sharing and for fun
 Shoot  with scroll and TMX tiled files , made with linux and python 3.8.5 and arcade library (upon pyglet)
 should work on windows (Mac ?), not tested.
 
+version 4 : 3 may 2021 :
+Added punk and yellow vest . they are hidden in level 2.
+----------------------------
+Punk spawning is radar triggered , yellow vest is chronometer triggered. They are inactive for the moment, wait next commits. 
 -----------------------------
 version 3 : 22th april 2021 Aiming better but not perfect : blocks at far right side , new background not well fitted yet , gameover screen centered,
 path for resources fixed
-----------------
 
-Next soon: add new skins and enemy variety. , fix maps and backgrounds. Maybe gamepad support 
----------
 
 Version 2 : 20th april 2021 : HUD fixed , unsmoking at level up.
 
